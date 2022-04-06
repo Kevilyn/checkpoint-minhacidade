@@ -15,7 +15,7 @@ Seletores CSS
 Flexbox
 Design Adaptativo.
 Layout 
-Confira o layout esperado para a sua página web no seguinte link: Layout no Figma
+Confira o layout esperado para a sua página web no seguinte link: Layout no Figma: https://www.figma.com/file/sYAbpnjvD6juYawfRyZDbh/Untitled?node-id=0%3A1
 
 
     Instruções 
@@ -28,7 +28,7 @@ Confira o layout esperado para a sua página web no seguinte link: Layout no Fig
 6. Abaixo do banner escreva o título: “Curiosidades” e faça três cards (versão desktop e um card abaixo do outro na versão mobile), cada um com uma curiosidade sobre sua cidade.
 7. Insira um vídeo do youtube que fale da sua cidade. Pode ser algum festival ou comemoração.
 8. No footer, utilize algum site de ícones para conseguir uma imagem do Linkedin e outra do Github. Nesses ícones, faça o link com seu linkedin e github!
-9. No formulário a seguir, insira seu nome e a URL do repositório remoto do projeto. Link do Formulário 
+9. No formulário a seguir, insira seu nome e a URL do repositório remoto do projeto. Link do Formulário
 
 PRAZO DE ENTREGA:
 Data de entrega 06/04 às 23:59h.

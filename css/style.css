@@ -480,4 +480,12 @@ footer p{
   text-align: center;
 }
 
+.rede-social{
+  display: flex;
+  justify-content:center;
+  flex-direction: column;
+  gap: 15px;
+  flex-wrap: wrap;
+  text-align: center;
+}
 }

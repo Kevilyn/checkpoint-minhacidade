@@ -43,7 +43,12 @@ body {
   font-family: 'Righteous', cursive;
   color: #FFF2E7;
   font-weight: 400;
-  font-size: 18px; 
+  font-size: 18px;
+}
+
+.cabecalho-menu-item{
+  text-decoration: none;
+  color: #FFF2E7
 }
 
 .cabecalho-menu :hover {
@@ -148,8 +153,8 @@ body {
   font-weight: 180;
   font-size: 20px;
   color: #2F2325;
+  text-decoration: none;
 }
-
 .conteudo-principal-escrito-botao:hover {
   background-color: rgba(255, 255, 255, 0.53);
 }
